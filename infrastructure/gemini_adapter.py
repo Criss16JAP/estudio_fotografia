@@ -49,7 +49,7 @@ class GeminiAdapter(IModelAdapter):
         if not api_key:
             raise ValueError("GEMINI_API_KEY no está configurada en las variables de entorno.")
         genai.configure(api_key=api_key)
-        self._base_model_name: str = "gemini-2.0-flash-lite"
+        self._base_model_name: str = "gemini-1.5-flash"
 
     def complete(
         self,
