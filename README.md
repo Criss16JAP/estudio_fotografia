@@ -1,4 +1,4 @@
-# Chatbot — Lente Mágico Estudio 📸
+# Chatbot — Daniel Fotografía 📸
 
 Asistente virtual con **RAG simplificado** para el estudio de fotografía.
 Construido con FastAPI + Gemini + Factory Pattern. Desplegable en Vercel.

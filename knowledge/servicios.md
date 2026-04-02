@@ -1,6 +1,6 @@
 # Servicios y Eventos que Cubrimos
 
-En **Lente Mágico Estudio** somos expertos en capturar la esencia de cada momento. Ofrecemos una amplia gama de servicios fotográficos:
+En **Daniel Fotografía** somos expertos en capturar la esencia de cada momento. Ofrecemos una amplia gama de servicios fotográficos:
 
 ## Bodas
 Inmortalizamos el día más importante de tu vida. Cubrimos desde los preparativos (el 'Getting Ready' de los novios), la ceremonia religiosa o civil, hasta la gran fiesta. Nos especializamos en capturar emociones reales, lágrimas de alegría y momentos espontáneos estilo documental y "fine art".

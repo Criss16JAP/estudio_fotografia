@@ -1,6 +1,6 @@
 # Nuestro Equipo de Trabajo
 
-En **Lente Mágico Estudio** tenemos un equipo consolidado de especialistas en la imagen que son verdaderos apasionados por el arte visual y, sobre todo, por brindar una cálida y excepcional experiencia de servicio.
+En **Daniel Fotografía** tenemos un equipo consolidado de especialistas en la imagen que son verdaderos apasionados por el arte visual y, sobre todo, por brindar una cálida y excepcional experiencia de servicio.
 
 ## Carlos Mendoza — Director General y Fotógrafo Principal de Bodas
 Líder creativo, Carlos cuenta con más de 10 años de experiencia comprobada en fotografía documental y eventos sociales de gran escala. Su estilo característico se basa en dominar la iluminación natural y capturar de manera inadvertida las emociones más genuinas. Carlos personalmente dirige las coberturas de las bodas más importantes.
