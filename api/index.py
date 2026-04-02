@@ -26,13 +26,7 @@ app.add_middleware(
 _chat_service = ChatService()
 
 
-@app.get("/", response_class=HTMLResponse)
-def frontend() -> HTMLResponse:
-    html = Path("index.html").read_text(encoding="utf-8")
-    return HTMLResponse(content=html)
-
-
-@app.post("/chat", response_model=ChatResponse)
+@app.post("/api/chat", response_model=ChatResponse)
 def chat(request: ChatRequest) -> ChatResponse:
     try:
         return _chat_service.responder(request)

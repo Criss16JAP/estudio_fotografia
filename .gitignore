@@ -1,0 +1,15 @@
+# Variables de entorno (Secretos)
+.env
+.env.*
+
+# Entornos virtuales de Python
+venv/
+env/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# SO
+.DS_Store
