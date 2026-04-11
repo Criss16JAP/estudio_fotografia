@@ -1,6 +1,6 @@
-from domain.schemas import AIProvider, ChatRequest, ChatResponse
-from infrastructure.context_loader import ContextLoader
-from infrastructure.model_factory import AIModelFactory
+from backend.domain.schemas import AIProvider, ChatRequest, ChatResponse
+from backend.infrastructure.context_loader import ContextLoader
+from backend.infrastructure.model_factory import AIModelFactory
 
 
 class ChatService:

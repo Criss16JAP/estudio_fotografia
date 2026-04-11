@@ -3,7 +3,7 @@ import os
 import re
 import time
 import google.generativeai as genai
-from domain.interfaces import IModelAdapter
+from backend.domain.interfaces import IModelAdapter
 
 # Patrones comunes de prompt injection
 _INJECTION_PATTERNS: list[str] = [
