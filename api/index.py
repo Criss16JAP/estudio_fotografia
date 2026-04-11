@@ -6,8 +6,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 
-from domain.schemas import ChatRequest, ChatResponse
-from services.chat_service import ChatService
+from backend.domain.schemas import ChatRequest, ChatResponse
+from backend.services.chat_service import ChatService
 
 load_dotenv()
 
@@ -31,7 +31,19 @@ _chat_service = ChatService()
 
 @app.get("/", response_class=HTMLResponse)
 def frontend():
-    html = Path("index.html").read_text(encoding="utf-8")
+    html = Path("frontend/index.html").read_text(encoding="utf-8")
+    return HTMLResponse(content=html)
+
+
+@app.get("/portfolio", response_class=HTMLResponse)
+def portfolio():
+    html = Path("frontend/portfolio.html").read_text(encoding="utf-8")
+    return HTMLResponse(content=html)
+
+
+@app.get("/inquiry", response_class=HTMLResponse)
+def inquiry():
+    html = Path("frontend/inquiry.html").read_text(encoding="utf-8")
     return HTMLResponse(content=html)
 
 
